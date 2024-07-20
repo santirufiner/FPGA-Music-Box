@@ -38,4 +38,4 @@ Se utilizó un testbench (`caja_musical_tb.v`) para generar una señal de reloj 
    5. **Ejecutar la Melodía**:
       - Ejecutar el programa en la FPGA y verificar que se reproduce la melodía deseada.
 
-Para más información, consulte el [documento del proyecto](Mora, Rufiner - TFI ED 2024 - Diseño e implementación de una caja musical programable en FPGA.pdf).
+Para más información, consulte el ([documento del proyecto](https://github.com/santirufiner/FPGA-Music-Box/blob/2a8c2d1b2daff52bd1a93cb3abac4e6929518e1f/Mora%2C%20Rufiner%20-%20TFI%20ED%202024%20-%20Dise%C3%B1o%20e%20implementaci%C3%B3n%20de%20una%20caja%20musical%20programable%20en%20FPGA.pdf)).
