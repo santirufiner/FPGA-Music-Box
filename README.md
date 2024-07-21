@@ -31,7 +31,7 @@ Se utilizó un testbench (`caja_musical_tb.v`) para generar una señal de reloj 
 
 3. **Pasos**:
    1. **Configurar entorno y descargar el proyecto**:
-      - Configurar el entorno de desarrollo (VSCode + extensiones Verilog + GTKWave). Video explicación [acá](https://www.youtube.com/watch?v=vVqsil4rw-c) (Linux). 
+      - Configurar entorno de desarrollo (VSCode + extensiones Verilog + GTKWave). Video explicación [acá](https://www.youtube.com/watch?v=vVqsil4rw-c) (Linux). 
       - Descargar los archivos Verilog del repositorio (Carpeta `Codigo completo`).
    3. **Simular el Diseño**:
       - Ejecutar el testbench (`caja_musical_tb.v`) en el simulador.
